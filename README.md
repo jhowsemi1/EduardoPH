@@ -1,10 +1,5 @@
-### Dudu Aquii 
+### Eduardo Mendes
 
-<div>
- <a href="https://www.instagram.com/duduzs_rc/"> <img height="40" width="40" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1"/></a>
-</div>
-
-##
  <a href="https://github.com/EduardoPH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoPH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPH&layout=compact&langs_count=16&theme=dark"/>
@@ -19,3 +14,9 @@
 </div>
 
 ##
+
+### My Social Networks
+
+<div>
+ <a href="https://www.instagram.com/duduzs_rc/"> <img height="40" width="40" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1"/></a>
+</div>
