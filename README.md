@@ -20,3 +20,5 @@
 <div>
  <a href="https://www.instagram.com/duduzs_rc/"> <img height="40" width="40" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1"/></a>
 </div>
+
+![Snake animation](https://github.com/EduardoPH/EduardoPH/blob/output/github-contribution-grid-snake.svg)
